@@ -1,0 +1,5836 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            phone
+          </span>
+          <div
+            className="BCSIcon-subIconWrapper-120"
+          >
+            <span
+              aria-hidden="true"
+              className="material-icons MuiIcon-root-123 BCSIcon-subIconRoot-121"
+            >
+              call_received
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          >
+            Завершено
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Номер
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                919 45 57 007
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 2`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            people
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          >
+            Завершено
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        <span>
+          Пришел
+          .
+        </span>
+         
+        Связался с клиентом
+      </h3>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        place
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Улица Пушкина, дом 1
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 3`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            people
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          >
+            Завершено
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        <span>
+          Не пришел
+          .
+        </span>
+         
+        Связался с клиентом
+      </h3>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        place
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Улица Пушкина, дом 1
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 4`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root-234 BCSIcon-iconRoot-119"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M11 7h2v2h-2zM11 11h2v6h-2z"
+            />
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          >
+            Не уведомлен
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      />
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 5`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info_outlined
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        Внешний
+      </h3>
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Правда нужны
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <span
+                className="MuiTypography-root-132 MuiTypography-caption-142"
+              >
+                1 января 2018 в 00:00
+              </span>
+              <div>
+                <div
+                  className="BCSChip-rootWrapper-169 BCSChip-Completed-179"
+                >
+                  <div
+                    className="MuiChip-root-201 BCSChip-root-168"
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    role="button"
+                    tabIndex={-1}
+                    type="Completed"
+                  >
+                    <span
+                      className="MuiChip-label-220 BCSChip-label-170"
+                    >
+                      Завершен
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 6`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info_outlined
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        Внешний
+      </h3>
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Правда нужны
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <span
+                className="MuiTypography-root-132 MuiTypography-caption-142"
+              >
+                1 января 2018 в 00:00
+              </span>
+              <div>
+                <div
+                  className="BCSChip-rootWrapper-169 BCSChip-Completed-179"
+                >
+                  <div
+                    className="MuiChip-root-201 BCSChip-root-168"
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    role="button"
+                    tabIndex={-1}
+                    type="Completed"
+                  >
+                    <span
+                      className="MuiChip-label-220 BCSChip-label-170"
+                    >
+                      Завершен
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 7`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            mail_outline
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        attach_file
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+      >
+        <button
+          className="MuiButtonBase-root-284 MuiButton-root-258 BcsButton-root-252 BcsIconButton-root-245 CustomMarkupView-iconButton-243 BcsIconButton-smallSizeTheme-247 MuiButton-text-260 MuiButton-textPrimary-261 MuiButton-flat-263 MuiButton-flatPrimary-264"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="MuiButton-label-259 BcsButton-label-257"
+          >
+            <span
+              className="BcsIconButton-rootLabel-248 BcsIconButton-smallSizeThemeLabel-251"
+            >
+              <span
+                aria-hidden="true"
+                className="material-icons MuiIcon-root-123 CustomMarkupView-icon-244 MuiIcon-fontSizeSmall-130"
+              >
+                open_in_new
+              </span>
+            </span>
+          </span>
+          <span
+            className="MuiTouchRipple-root-287"
+          />
+        </button>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          Открыть E-mail
+        </h6>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 8`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root-234 BCSIcon-iconRoot-119"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <g>
+              <path
+                d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17L4 17.17V4h16v12z"
+              />
+              <path
+                d="M7 9h2v2H7zM15 9h2v2h-2zM11 9h2v2h-2z"
+              />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        SMS full text
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 9`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            receipt
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        attach_file
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+      >
+        <button
+          className="MuiButtonBase-root-284 MuiButton-root-258 BcsButton-root-252 BcsIconButton-root-245 CustomMarkupView-iconButton-243 BcsIconButton-smallSizeTheme-247 MuiButton-text-260 MuiButton-textPrimary-261 MuiButton-flat-263 MuiButton-flatPrimary-264"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="MuiButton-label-259 BcsButton-label-257"
+          >
+            <span
+              className="BcsIconButton-rootLabel-248 BcsIconButton-smallSizeThemeLabel-251"
+            >
+              <span
+                aria-hidden="true"
+                className="material-icons MuiIcon-root-123 CustomMarkupView-icon-244 MuiIcon-fontSizeSmall-130"
+              >
+                open_in_new
+              </span>
+            </span>
+          </span>
+          <span
+            className="MuiTouchRipple-root-287"
+          />
+        </button>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          Открыть Новость
+        </h6>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 10`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            phone
+          </span>
+          <div
+            className="BCSIcon-subIconWrapper-120"
+          >
+            <span
+              aria-hidden="true"
+              className="material-icons MuiIcon-root-123 BCSIcon-subIconRoot-121"
+            >
+              call_received
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Номер
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                919 45 57 007
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 11`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            people
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        <span>
+          Пришел
+          .
+        </span>
+         
+        Связался с клиентом
+      </h3>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        place
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Улица Пушкина, дом 1
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 12`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            people
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        <span>
+          Не пришел
+          .
+        </span>
+         
+        Связался с клиентом
+      </h3>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        place
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Улица Пушкина, дом 1
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 13`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root-234 BCSIcon-iconRoot-119"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <path
+              d="M11 7h2v2h-2zM11 11h2v6h-2z"
+            />
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-notNotified-181"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="notNotified"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          >
+            Не уведомлен
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      />
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 14`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <span
+                className="MuiTypography-root-132 MuiTypography-caption-142"
+              >
+                1 января 2018 в 00:00
+              </span>
+              <div>
+                <div
+                  className="BCSChip-rootWrapper-169 BCSChip-Completed-179"
+                >
+                  <div
+                    className="MuiChip-root-201 BCSChip-root-168"
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    role="button"
+                    tabIndex={-1}
+                    type="Completed"
+                  >
+                    <span
+                      className="MuiChip-label-220 BCSChip-label-170"
+                    >
+                      Завершен
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 15`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <span
+                className="MuiTypography-root-132 MuiTypography-caption-142"
+              >
+                1 января 2018 в 00:00
+              </span>
+              <div>
+                <div
+                  className="BCSChip-rootWrapper-169 BCSChip-Completed-179"
+                >
+                  <div
+                    className="MuiChip-root-201 BCSChip-root-168"
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    role="button"
+                    tabIndex={-1}
+                    type="Completed"
+                  >
+                    <span
+                      className="MuiChip-label-220 BCSChip-label-170"
+                    >
+                      Завершен
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 16`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            mail_outline
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        attach_file
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+      >
+        <button
+          className="MuiButtonBase-root-284 MuiButton-root-258 BcsButton-root-252 BcsIconButton-root-245 CustomMarkupView-iconButton-243 BcsIconButton-smallSizeTheme-247 MuiButton-text-260 MuiButton-textPrimary-261 MuiButton-flat-263 MuiButton-flatPrimary-264"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="MuiButton-label-259 BcsButton-label-257"
+          >
+            <span
+              className="BcsIconButton-rootLabel-248 BcsIconButton-smallSizeThemeLabel-251"
+            >
+              <span
+                aria-hidden="true"
+                className="material-icons MuiIcon-root-123 CustomMarkupView-icon-244 MuiIcon-fontSizeSmall-130"
+              >
+                open_in_new
+              </span>
+            </span>
+          </span>
+          <span
+            className="MuiTouchRipple-root-287"
+          />
+        </button>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          Открыть E-mail
+        </h6>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 17`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root-234 BCSIcon-iconRoot-119"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M0 0h24v24H0V0z"
+              fill="none"
+            />
+            <g>
+              <path
+                d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17L4 17.17V4h16v12z"
+              />
+              <path
+                d="M7 9h2v2H7zM15 9h2v2h-2zM11 9h2v2h-2z"
+              />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        notes
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        SMS full text
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 18`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            receipt
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type={null}
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        attach_file
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+      >
+        <button
+          className="MuiButtonBase-root-284 MuiButton-root-258 BcsButton-root-252 BcsIconButton-root-245 CustomMarkupView-iconButton-243 BcsIconButton-smallSizeTheme-247 MuiButton-text-260 MuiButton-textPrimary-261 MuiButton-flat-263 MuiButton-flatPrimary-264"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="0"
+          type="button"
+        >
+          <span
+            className="MuiButton-label-259 BcsButton-label-257"
+          >
+            <span
+              className="BcsIconButton-rootLabel-248 BcsIconButton-smallSizeThemeLabel-251"
+            >
+              <span
+                aria-hidden="true"
+                className="material-icons MuiIcon-root-123 CustomMarkupView-icon-244 MuiIcon-fontSizeSmall-130"
+              >
+                open_in_new
+              </span>
+            </span>
+          </span>
+          <span
+            className="MuiTouchRipple-root-287"
+          />
+        </button>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          Открыть Новость
+        </h6>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 19`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info_outlined
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        Внешний
+      </h3>
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Правда нужны
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <span
+                className="MuiTypography-root-132 MuiTypography-caption-142"
+              >
+                1 января 2018 в 00:00
+              </span>
+              <div>
+                <div
+                  className="BCSChip-rootWrapper-169 BCSChip-Completed-179"
+                >
+                  <div
+                    className="MuiChip-root-201 BCSChip-root-168"
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    role="button"
+                    tabIndex={-1}
+                    type="Completed"
+                  >
+                    <span
+                      className="MuiChip-label-220 BCSChip-label-170"
+                    >
+                      Завершен
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 20`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info_outlined
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h3
+        className="MuiTypography-root-132 MuiTypography-h3-146"
+      >
+        Внешний
+      </h3>
+      <p
+        className="MuiTypography-root-132 MuiTypography-body2-140"
+      >
+        Информация о причине вывода отсутствует
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <span
+                className="MuiTypography-root-132 MuiTypography-caption-142"
+              >
+                1 января 2018 в 00:00
+              </span>
+              <div>
+                <div
+                  className="BCSChip-rootWrapper-169 BCSChip-Completed-179"
+                >
+                  <div
+                    className="MuiChip-root-201 BCSChip-root-168"
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    role="button"
+                    tabIndex={-1}
+                    type="Completed"
+                  >
+                    <span
+                      className="MuiChip-label-220 BCSChip-label-170"
+                    >
+                      Завершен
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 21`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info_outlined
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h6
+        className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+      >
+        Информация по типу вывода отстуствует
+      </h6>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <div>
+                <div
+                  className="BCSChip-rootWrapper-169 BCSChip-Completed-179"
+                >
+                  <div
+                    className="MuiChip-root-201 BCSChip-root-168"
+                    onKeyDown={[Function]}
+                    onKeyUp={[Function]}
+                    role="button"
+                    tabIndex={-1}
+                    type="Completed"
+                  >
+                    <span
+                      className="MuiChip-label-220 BCSChip-label-170"
+                    >
+                      Завершен
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[` 22`] = `
+<div
+  className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+>
+  <section
+    className="BCSActivityCard-root-99"
+    onClick={[Function]}
+    title="Нажмите, чтобы посмотреть детальную информацию"
+  >
+    <div
+      className="BCSActivityCard-left-100"
+    >
+      <div
+        aria-describedby={null}
+        className=""
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        title={null}
+      >
+        <div
+          className="BCSIcon-root-118 BCSIcon-medium-122"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-123 BCSIcon-iconRoot-119"
+          >
+            payment
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-center-102"
+    >
+      <div
+        className="BCSActivityCard-centerTop-103"
+      >
+        <h3
+          className="MuiTypography-root-132 BCSActivityCard-title-106 MuiTypography-h3-146"
+        >
+          Клиент подал поручение на вывод активов. Свяжитесь с клиентом, выясните причину и укажите ее при обработке текущей задачи.
+        </h3>
+      </div>
+      <div
+        className="BCSActivityCard-centerBottom-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-123 BCSActivityCard-timeIcon-107"
+        >
+          access_time
+        </span>
+        <h6
+          className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+        >
+          01 января 2018 в 00:00
+        </h6>
+      </div>
+    </div>
+    <div
+      className="BCSActivityCard-right-105"
+    >
+      <div
+        className="BCSChip-rootWrapper-169 BCSChip-completed-176"
+      >
+        <div
+          className="MuiChip-root-201 BCSChip-root-168"
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          role="button"
+          tabIndex={-1}
+          type="completed"
+        >
+          <span
+            className="MuiChip-label-220 BCSChip-label-170"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-justify-xs-space-between-21"
+      >
+        <div
+          className="MuiGrid-item-3"
+        >
+          <div
+            className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Клиент
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <a
+                href="/client/undefined"
+                onClick={[Function]}
+              >
+                Василий
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        info_outlined
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <h6
+        className="MuiTypography-root-132 MuiTypography-subtitle1-150"
+      >
+        Информация по типу вывода отстуствует
+      </h6>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-flex-start-11"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        swap_horiz
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <div
+        className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+      >
+        <div
+          className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10 MuiGrid-justify-xs-space-between-21"
+        >
+          <div
+            className="MuiGrid-item-3"
+          >
+            <h6
+              className="MuiTypography-root-132 MuiTypography-subtitle2-151"
+            >
+              Вывод ценных бумаг
+            </h6>
+          </div>
+          <div
+            className="MuiGrid-item-3"
+          >
+            <div
+              className="MuiGrid-container-2 MuiGrid-align-items-xs-center-10"
+            >
+              <span
+                className="MuiTypography-root-132 MuiTypography-caption-142"
+              >
+                1 января 2018 в 00:00
+              </span>
+            </div>
+          </div>
+        </div>
+        <hr
+          className="MuiDivider-root-226 MuiDivider-light-229"
+        />
+        <div
+          className="MuiGrid-container-2 MuiGrid-direction-xs-column-5"
+        >
+          <span
+            className="MuiTypography-root-132 MuiTypography-caption-142"
+          >
+            Договор: 
+            21992038
+          </span>
+          <h2
+            className="MuiTypography-root-132 MuiTypography-h2-145"
+          >
+            2 150 000 ₽
+          </h2>
+          <div
+            className="MuiGrid-container-2 MuiGrid-spacing-xs-16-25 MuiGrid-wrap-xs-nowrap-8 MuiGrid-justify-xs-space-between-21"
+          >
+            <div
+              className="MuiGrid-item-3"
+            >
+              <p
+                className="MuiTypography-root-132 MuiTypography-body1-141"
+              >
+                Название ценной бумаги 1, Название ценной бумаги 2, Название ценной бумаги 3
+              </p>
+            </div>
+            <div
+              className="MuiGrid-item-3"
+            >
+              <h3
+                className="MuiTypography-root-132 MuiTypography-h3-146"
+              >
+                300
+                 шт.
+              </h3>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    >
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-123 Section-icon-232"
+      >
+        person
+      </span>
+    </div>
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <p
+        className="MuiTypography-root-132 MuiTypography-body1-141"
+      >
+        Егоров Василий Васильевич
+      </p>
+    </div>
+  </div>
+  <hr
+    className="MuiDivider-root-226"
+  />
+  <div
+    className="MuiGrid-container-2 MuiGrid-wrap-xs-nowrap-8 MuiGrid-align-items-xs-center-10"
+  >
+    <div
+      className="MuiGrid-item-3 Section-iconWrapper-231"
+    />
+    <div
+      className="MuiGrid-item-3 Section-contentWrapper-233"
+    >
+      <span
+        className="MuiTypography-root-132 MuiTypography-caption-142"
+      >
+        Создана  
+        Егоров Василий Васильевич
+          
+        1 января 2018 в 00:00
+      </span>
+    </div>
+  </div>
+</div>
+`;

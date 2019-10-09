@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="MuiGrid-container-1 MuiGrid-direction-xs-column-4"
+  data-bcs-id="activity-details-skeleton"
+>
+  <div
+    className="MuiGrid-item-2"
+  >
+    <div
+      className="MuiGrid-container-1"
+    >
+      <div
+        className="MuiGrid-item-2"
+      >
+        <div
+          className="animated"
+        />
+      </div>
+      <div
+        className="MuiGrid-item-2"
+      >
+        <div
+          className="MuiGrid-container-1 MuiGrid-direction-xs-column-4"
+        >
+          <div
+            className="MuiGrid-item-2"
+          >
+            <div
+              className="animated"
+            />
+          </div>
+          <div
+            className="MuiGrid-item-2"
+          >
+            <div
+              className="animated"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-item-2"
+  >
+    <hr
+      className="MuiDivider-root-98"
+    />
+  </div>
+  <div
+    className="MuiGrid-item-2"
+  >
+    <div
+      className="MuiGrid-container-1"
+    >
+      <div
+        className="MuiGrid-item-2"
+      >
+        <div
+          className="animated"
+        />
+      </div>
+      <div
+        className="MuiGrid-item-2"
+      >
+        <div
+          className="MuiGrid-container-1 MuiGrid-direction-xs-column-4"
+        >
+          <div
+            className="MuiGrid-item-2"
+          >
+            <div
+              className="animated"
+            />
+          </div>
+          <div
+            className="MuiGrid-item-2"
+          >
+            <div
+              className="animated"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiGrid-item-2"
+  >
+    <hr
+      className="MuiDivider-root-98"
+    />
+  </div>
+  <div
+    className="MuiGrid-item-2"
+  >
+    <div
+      className="MuiGrid-container-1 MuiGrid-align-items-xs-center-9"
+    >
+      <div
+        className="MuiGrid-item-2"
+      >
+        <div
+          className="animated"
+        />
+      </div>
+      <div
+        className="MuiGrid-item-2"
+      >
+        <div
+          className="animated"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="MuiGrid-container-1 MuiGrid-wrap-xs-nowrap-7 MuiGrid-align-items-xs-center-9"
+>
+  <div
+    className="MuiGrid-item-2"
+  >
+    <span
+      aria-hidden="true"
+      className="material-icons MuiIcon-root-98"
+    >
+      phone
+    </span>
+  </div>
+  <div
+    className="MuiGrid-item-2"
+  />
+</div>
+`;
+
+exports[` 2`] = `
+<div
+  className="MuiGrid-container-1 MuiGrid-direction-xs-column-4 MuiGrid-wrap-xs-nowrap-7 MuiGrid-align-items-xs-center-9"
+>
+  <div
+    className="MuiGrid-item-2"
+  >
+    <span
+      aria-hidden="true"
+      className="material-icons MuiIcon-root-98"
+    >
+      phone
+    </span>
+  </div>
+  <div
+    className="MuiGrid-item-2"
+  />
+</div>
+`;

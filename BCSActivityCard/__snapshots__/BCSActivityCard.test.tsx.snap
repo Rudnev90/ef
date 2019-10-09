@@ -1,0 +1,1232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="MuiPaper-root-11 ActivityTabSkeleton-rootPaper-1 MuiPaper-elevation2-15 MuiPaper-rounded-12"
+>
+  <section
+    className="ActivityTabSkeleton-root-2"
+  >
+    <div>
+      <div
+        className="ActivityTabSkeleton-fakeIcon-3 animated"
+      />
+    </div>
+    <div
+      className="ActivityTabSkeleton-center-4"
+    >
+      <div
+        className="ActivityTabSkeleton-centerTop-5"
+      >
+        <div
+          className="ActivityTabSkeleton-fakeTitle-6 animated"
+        />
+      </div>
+      <div
+        className="ActivityTabSkeleton-centerBottom-7"
+      >
+        <div>
+          <div
+            className="ActivityTabSkeleton-fakeDate-8 animated"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="ActivityTabSkeleton-right-9"
+    >
+      <div
+        className="ActivityTabSkeleton-fakeChip-10 animated"
+      />
+    </div>
+  </section>
+</div>
+`;
+
+exports[` 2`] = `
+<div
+  className="MuiPaper-root-11 ActivityTabSkeleton-rootPaper-1 MuiPaper-elevation2-15 MuiPaper-rounded-12"
+>
+  <section
+    className="ActivityTabSkeleton-root-2"
+  >
+    <div>
+      <div
+        className="ActivityTabSkeleton-fakeIcon-3 animated"
+      />
+    </div>
+    <div
+      className="ActivityTabSkeleton-center-4"
+    >
+      <div
+        className="ActivityTabSkeleton-centerTop-5"
+      >
+        <div
+          className="ActivityTabSkeleton-fakeTitle-6 animated"
+        />
+      </div>
+      <div
+        className="ActivityTabSkeleton-centerBottom-7"
+      >
+        <div>
+          <div
+            className="ActivityTabSkeleton-fakeDate-8 animated"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="ActivityTabSkeleton-right-9"
+    >
+      <div
+        className="ActivityTabSkeleton-fakeChip-10 animated"
+      />
+    </div>
+  </section>
+</div>
+`;
+
+exports[` 3`] = `
+<div
+  className="MuiPaper-root-11 ActivityTabSkeleton-rootPaper-1 MuiPaper-elevation2-15 MuiPaper-rounded-12"
+>
+  <section
+    className="ActivityTabSkeleton-root-2"
+  >
+    <div>
+      <div
+        className="ActivityTabSkeleton-fakeIcon-3 animated"
+      />
+    </div>
+    <div
+      className="ActivityTabSkeleton-center-4"
+    >
+      <div
+        className="ActivityTabSkeleton-centerTop-5"
+      >
+        <div
+          className="ActivityTabSkeleton-fakeTitle-6 animated"
+        />
+      </div>
+      <div
+        className="ActivityTabSkeleton-centerBottom-7"
+      >
+        <div>
+          <div
+            className="ActivityTabSkeleton-fakeDate-8 animated"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="ActivityTabSkeleton-right-9"
+    >
+      <div
+        className="ActivityTabSkeleton-fakeChip-10 animated"
+      />
+    </div>
+  </section>
+</div>
+`;
+
+exports[` 4`] = `
+<div>
+  Error
+</div>
+`;
+
+exports[` 5`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          mail_outline
+        </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.email for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        01 января 2018 в 00:00
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type={null}
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 6`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          phone
+        </span>
+        <div
+          className="BCSIcon-subIconWrapper-48"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-51 BCSIcon-subIconRoot-49"
+          >
+            call_received
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.phoneCall for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type={null}
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 7`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          phone
+        </span>
+        <div
+          className="BCSIcon-subIconWrapper-48"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-51 BCSIcon-subIconRoot-49"
+          >
+            call_made
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.phoneCall for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type={null}
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 8`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          people
+        </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.appointment for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type={null}
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 9`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          people
+        </span>
+        <div
+          className="BCSIcon-subIconWrapper-48"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-51 BCSIcon-subIconRoot-49"
+          >
+            call_made
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.appointment for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type={null}
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 10`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          people
+        </span>
+        <div
+          className="BCSIcon-subIconWrapper-48"
+        >
+          <span
+            aria-hidden="true"
+            className="material-icons MuiIcon-root-51 BCSIcon-subIconRoot-49"
+          >
+            call_received
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.appointment for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type={null}
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 11`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-154 BCSIcon-iconRoot-47"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M11 7h2v2h-2zM11 11h2v6h-2z"
+          />
+          <path
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.serviceMessage for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97 BCSChip-notified-108"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type="notified"
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        >
+          Missing translationId: App.BCSActivityCard.notified for language: \${ languageCode }
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 12`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          phone
+        </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.phoneCall for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type={null}
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 13`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          phone
+        </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.phoneCall for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97 BCSChip-completed-104"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type="completed"
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        >
+          Missing translationId: enum.ActivityStateType.completed for language: \${ languageCode }
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 14`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-154 BCSIcon-iconRoot-47"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M11 7h2v2h-2zM11 11h2v6h-2z"
+          />
+          <path
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.serviceMessage for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97 BCSChip-notNotified-109"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type="notNotified"
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        >
+          Missing translationId: App.BCSActivityCard.notNotified for language: \${ languageCode }
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 15`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-154 BCSIcon-iconRoot-47"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M0 0h24v24H0V0z"
+            fill="none"
+          />
+          <path
+            d="M11 7h2v2h-2zM11 11h2v6h-2z"
+          />
+          <path
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.serviceMessage for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97 BCSChip-notified-108"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type="notified"
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        >
+          Missing translationId: App.BCSActivityCard.notified for language: \${ languageCode }
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 16`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          receipt
+        </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.webportalNews for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97 BCSChip-completed-104"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type="completed"
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        />
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 17`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          receipt
+        </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.webportalNews for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97 BCSChip-completed-104"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type="completed"
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        >
+          Some status
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[` 18`] = `
+<section
+  onClick={[Function]}
+  title="Нажмите, чтобы посмотреть детальную информацию"
+>
+  <div>
+    <div
+      aria-describedby={null}
+      className=""
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title={null}
+    >
+      <div
+        className="BCSIcon-root-46 BCSIcon-medium-50"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-51 BCSIcon-iconRoot-47"
+        >
+          receipt
+        </span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3
+        className="MuiTypography-root-60 MuiTypography-h3-74"
+      >
+        Missing translationId: enum.ActivityType.webportalNews for language: \${ languageCode }
+      </h3>
+    </div>
+    <div>
+      <span
+        aria-hidden="true"
+        className="material-icons MuiIcon-root-51"
+      >
+        access_time
+      </span>
+      <h6
+        className="MuiTypography-root-60 MuiTypography-subtitle1-78"
+      >
+        Invalid Date
+      </h6>
+    </div>
+  </div>
+  <div>
+    <div
+      className="BCSChip-rootWrapper-97 BCSChip-Alert-100"
+    >
+      <div
+        className="MuiChip-root-129 BCSChip-root-96"
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        role="button"
+        tabIndex={-1}
+        type="Alert"
+      >
+        <span
+          className="MuiChip-label-148 BCSChip-label-98"
+        >
+          Missing translationId: enum.ActivityTag.Alert for language: \${ languageCode }
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+`;

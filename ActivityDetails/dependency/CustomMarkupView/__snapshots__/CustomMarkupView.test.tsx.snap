@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="MuiGrid-container-1 MuiGrid-wrap-xs-nowrap-7 MuiGrid-align-items-xs-center-9"
+>
+  <button
+    className="MuiButtonBase-root-137 MuiButton-root-111 BcsButton-root-105 BcsIconButton-root-98 BcsIconButton-smallSizeTheme-100 MuiButton-text-113 MuiButton-textPrimary-114 MuiButton-flat-116 MuiButton-flatPrimary-117"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-112 BcsButton-label-110"
+    >
+      <span
+        className="BcsIconButton-rootLabel-101 BcsIconButton-smallSizeThemeLabel-104"
+      >
+        <span
+          aria-hidden="true"
+          className="material-icons MuiIcon-root-140 MuiIcon-fontSizeSmall-147"
+        >
+          open_in_new
+        </span>
+      </span>
+    </span>
+    <span
+      className="MuiTouchRipple-root-185"
+    />
+  </button>
+  <h6
+    className="MuiTypography-root-149 MuiTypography-subtitle1-167"
+  >
+    <span />
+  </h6>
+</div>
+`;

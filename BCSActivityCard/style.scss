@@ -1,0 +1,14 @@
+@keyframes :global(blinker) {
+  50% {
+    opacity: 0.5;
+  }
+}
+
+:local .animated {
+  :global {
+    animation-name: blinker;
+  }
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease;
+}
